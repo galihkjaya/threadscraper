@@ -4,7 +4,7 @@
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![PyPI](https://img.shields.io/pypi/v/threads-scraper)
+![PyPI](https://img.shields.io/pypi/v/threads-comment-scraper)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Installation
 
 ```bash
-pip install threads-scraper
+pip install threads-comment-scraper
 playwright install chromium
 ```
 
@@ -41,6 +41,7 @@ threads-scraper --keywords-file keywords.txt
 
 # With all options
 threads-scraper --keywords-file keywords.txt \
+
   --output data.csv \
   --limit 5000 \
   --delay-min 2 \

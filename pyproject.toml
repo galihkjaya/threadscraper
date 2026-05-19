@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "threads-scraper"
+name = "threads-comment-scraper"
 version = "0.1.0"
 description = "Scrape comments and replies from Threads by keyword"
 readme = "README.md"

@@ -17,7 +17,7 @@ from threads_scraper.searcher import search_post_ids_sync
 from threads_scraper.cleaner import clean_text, is_valid
 from threads_scraper.storage import save_to_csv, save_checkpoint, load_checkpoint, count_csv_rows
 
-BANNER = "Credit: @galihkjaya | FOR EDUCATIONAL PURPOSE ONLY!"
+BANNER = "Credit: @galihkjaya & @Nathaniel7 | FOR EDUCATIONAL PURPOSE ONLY!"
 
 
 def _load_keywords(args: argparse.Namespace) -> list[str]:

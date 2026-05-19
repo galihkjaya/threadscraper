@@ -111,4 +111,4 @@ bbm naik
 
 ## Credit
 
-Made by [@galihkjaya](https://github.com/galihkjaya)
+Made by [@galihkjaya](https://github.com/galihkjaya) [@Nathaniel7](https://github.com/renatonathaniel7-svg)

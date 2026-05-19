@@ -104,6 +104,7 @@ bbm naik
 
 - For **educational and research purposes only**
 - Respect Threads' [Terms of Service](https://help.instagram.com/581066165581870)
+- The author is **not responsible** for any misuse or consequences arising from the use of this tool.
 - Use reasonable delays (`--delay-min`, `--delay-max`) to avoid overloading servers
 - The first run launches a headless browser to capture fresh session tokens, this is normal and takes ~10 seconds
 

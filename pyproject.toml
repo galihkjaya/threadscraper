@@ -1,13 +1,13 @@
 [build-system]
 requires = ["setuptools>=68", "wheel"]
-build-backend = "setuptools.backends.legacy:build"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "threads-scraper"
 version = "0.1.0"
 description = "Scrape comments and replies from Threads by keyword"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.10"
 dependencies = [
     "requests>=2.31",
